@@ -59,3 +59,5 @@ He loves developing open source libraries and working with frameworks such as Sy
 
 - Amazon-[https://www.amazon.com/Luciano-Mammino/e/B01GW5CID8](https://www.amazon.com/Luciano-Mammino/e/B01GW5CID8)
 - GitHub-[https://github.com/lmammino](https://github.com/lmammino)
+
+thank's you!
